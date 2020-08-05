@@ -1,0 +1,8 @@
+name: ChatFilter
+main: ru.alexey336.filter.Main
+version: 1.0
+author: Alexey336
+description: "Плагин для блокировки команд"
+commands:
+  cf:
+    description: "ChatFilter"
